@@ -6,7 +6,7 @@ A feature-rich Quiz Game application built using Python and Tkinter GUI.
 
 - 🖥️ Full Graphical User Interface using Tkinter
 - 📂 3 Categories — Python, General Knowledge, Math
-- ⚙️ 3 Difficulty Levels — Easy (15s), Medium (10s), Hard (5s)
+- ⚙️ 3 Difficulty Levels — Easy (15s), Medium (30s), Hard (50s)
 - ⏱️ Live countdown timer with progress bar
 - 🌐 Dynamic questions fetched from Quiz API
 - 📶 Offline fallback questions when no internet
