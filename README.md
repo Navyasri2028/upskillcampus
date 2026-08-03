@@ -19,7 +19,7 @@ A feature-rich Quiz Game application built using Python and Tkinter GUI.
 
 quiz_game/
 ├── quiz.py            # Terminal version
-├── quiz_gui.py        # GUI version (main app)
+├── QuizGameGUI.py     # GUI version (main app)
 ├── questions.py       # Offline question bank
 ├── api_questions.py   # Quiz API integration
 ├── run_once.py        # Creates sound files
@@ -47,7 +47,7 @@ API_KEY = "YOUR_API_KEY_HERE"
 with your key from https://quizapi.io
 
 ### Step 5 — Run the Application
-python quiz_gui.py
+python QuizGameGUI.py
 
 ## 🎮 How to Play
 
